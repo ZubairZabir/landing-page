@@ -1,0 +1,3 @@
+#Landing PAge
+
+The Landing Page is a simple HTML, CSS webpage that showcases various things that I have learned over the past few weeks. This project demonstrates basic HTML skills, CSS skills, including structuring webpages with HTML semantic elements, embedding images, and linking between pages. Completing the project will solidify foundational web development skills and serve as a stepping stone to more complex projects.
